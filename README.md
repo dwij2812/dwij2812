@@ -1,6 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=dwij2812&show_icons=true&hide_rank=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
 
 ### Hey, It's Dwij Sheth
+
+<img src="https://komarev.com/ghpvc/?username=dwij2812" alt="dwij2812"/>
+
 I am a Developer and i love experimenting with new technologies.
 
 - 💻 Working as a **Associate Software Engineer** at [Sabre](https://www.sabre.com).
