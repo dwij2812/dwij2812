@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=dwij2812&show_icons=true&hide_rank=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dwij2812&show_icons=true&hide_rank=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
 
 ### Hey, It's Dwij Sheth
 I am a Developer and i love experimenting with new technologies.
