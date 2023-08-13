@@ -4,9 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=dwij2812" alt="dwij2812"/>
 
-I am a Developer and i love experimenting with new technologies.
+I am a Developer and I love experimenting with new technologies.
 
-- 💻 Software Engineer - III at [Sabre](https://www.sabre.com).
+- 💻 Senior Software Engineer at [Sabre](https://www.sabre.com).
 - ☀️ Learning Google Cloud Technologies and Developing JAVA applications.
 - ✈️️ AVGEEK and Professional SIM PILOT.
 
