@@ -6,7 +6,7 @@
 
 I am a Developer and I love experimenting with new technologies.
 
-- 💻 Senior Software Engineer at [Sabre](https://www.sabre.com).
+- 💻 Lead Software Architect at [Sabre](https://www.sabre.com).
 - ☀️ Learning Google Cloud Technologies and Developing JAVA applications.
 - ✈️️ AVGEEK and Professional SIM PILOT.
 
