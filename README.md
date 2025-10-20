@@ -4,16 +4,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=dwij2812" alt="dwij2812"/>
 
-I am a Developer and I love experimenting with new technologies.
+Software architect by design, developer by heart - forever chasing elegant abstractions and clean, scalable systems.
 
-- 💻 Lead Software Architect at [Sabre](https://www.sabre.com).
-- ☀️ Learning Google Cloud Technologies and Developing JAVA applications.
+- ☁️ Application Modernization Engineer (Cloud Engineer) at [Google Cloud](https://cloud.google.com/). 
+- 💻 ex - Lead Software Architect at [Sabre](https://www.sabre.com).
+- 🎖️ 2X GCP Certified : [Professional Cloud Architect](https://www.credly.com/earner/earned/badge/3dcfbb56-6289-48a8-8eb5-42c38a41fbe6), [Generative AI Leader](https://www.credly.com/badges/33520f03-3dd7-4591-9ef0-2abfa061fc3d)
+- 🧩 Specialties: Cloud-Native Architecture, API Platforms, Microservices, GKE, and System Design.
+- 🚀 Passionate About: Clean code, performance optimization, and designing systems that scale and survive chaos.
+- 🤖 Exploring: Generative AI, LLMOps, and intelligent cloud automation.
+- 🧠 Mantra: Design like an architect, think like a developer, debug like a detective.
 - ✈️️ AVGEEK and Professional SIM PILOT.
 
 ## 📫 Social Media Handles
-- Twitter - [@dwij_sheth](https://twitter.com/dwij_sheth)
 - LinkedIn - [Dwij Sukeshkumar Sheth](https://in.linkedin.com/in/dwij28)
 - Facebook - [Dwij Sheth](https://www.facebook.com/dwijsheth28/)
 - Stackoverflow - [dwij-sheth](https://stackoverflow.com/users/10005073/dwij-sheth?tab=profile)
 - Instagram - [dwij28](https://www.instagram.com/dwij28/)
 - Youtube - [Delta Sierra Aviation](https://www.youtube.com/channel/UCeQkigleDAvgv4n4EeqH_Wg)
+- Credly - [Dwij Sukesh Kumar Sheth](https://www.credly.com/users/dwij-sukeshkumar-sheth)
