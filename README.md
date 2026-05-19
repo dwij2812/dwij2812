@@ -21,4 +21,4 @@ Software architect by design, developer by heart - forever chasing elegant abstr
 - Stackoverflow - [dwij-sheth](https://stackoverflow.com/users/10005073/dwij-sheth?tab=profile)
 - Instagram - [dwij28](https://www.instagram.com/dwij28/)
 - Youtube - [Delta Sierra Aviation](https://www.youtube.com/channel/UCeQkigleDAvgv4n4EeqH_Wg)
-- Credly - [Dwij Sukesh Kumar Sheth](https://www.credly.com/users/dwij-sukeshkumar-sheth)
+- Credly - [Dwij Sukesh Kumar Sheth](https://www.credly.com/users/dwij-sheth/)
