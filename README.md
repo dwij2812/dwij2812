@@ -8,7 +8,7 @@ Software architect by design, developer by heart - forever chasing elegant abstr
 
 - ☁️ Application Modernization Engineer (Cloud Engineer) at [Google Cloud](https://cloud.google.com/). 
 - 💻 ex - Lead Software Architect at [Sabre](https://www.sabre.com).
-- 🎖️ 4X GCP Certified : [Professional Cloud Architect](https://www.credly.com/badges/3dcfbb56-6289-48a8-8eb5-42c38a41fbe6), [Associate Cloud Engineer](https://www.credly.com/badges/eec37e4a-480d-47f3-958e-70fedc4df87b), [Generative AI Leader](https://www.credly.com/badges/33520f03-3dd7-4591-9ef0-2abfa061fc3d), [Cloud Digital Leader](https://www.credly.com/badges/bb33b014-11e4-4884-ad9a-827098696185)
+- 🎖️ 5X GCP Certified : [Professional Machine Learning Engineer](https://www.credly.com/badges/22914273-7658-4987-85fa-6f0d158d6b14), [Professional Cloud Architect](https://www.credly.com/badges/3dcfbb56-6289-48a8-8eb5-42c38a41fbe6), [Associate Cloud Engineer](https://www.credly.com/badges/eec37e4a-480d-47f3-958e-70fedc4df87b), [Generative AI Leader](https://www.credly.com/badges/33520f03-3dd7-4591-9ef0-2abfa061fc3d), [Cloud Digital Leader](https://www.credly.com/badges/bb33b014-11e4-4884-ad9a-827098696185)
 - 🧩 Specialties: Cloud-Native Architecture, API Platforms, Microservices, GKE, and System Design.
 - 🚀 Passionate About: Clean code, performance optimization, and designing systems that scale and survive chaos.
 - 🤖 Exploring: Generative AI, LLMOps, and intelligent cloud automation.
